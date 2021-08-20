@@ -198,11 +198,11 @@ sigsToSparseMatrix = function(gSets, expression) {
 }
 
 
-setAs("data.frame", "Matrix", function(from) {
-  mat = do.call(cbind, lapply(from, as, "Matrix"))
-  colnames(mat) <- colnames(from)
-  rownames(mat) <- rownames(from)
-  mat
-})
+#setAs("data.frame", "Matrix", function(from) {
+#  mat = do.call(cbind, lapply(from, as, "Matrix"))
+#  colnames(mat) <- colnames(from)
+#  rownames(mat) <- rownames(from)
+#  mat
+#})
 
 #roxygen2::roxygenize(package.dir = ".")

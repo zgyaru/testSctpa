@@ -8,13 +8,12 @@
 #' @import data.table
 #' @export
 #'
-calVsion = function(data,
+calVision = function(data,
                     gSets){
   
-  
+  data = as.matrix(data)
   #latenSpace = computeLatentSpace(data)
   #clusters = clusterCells(object)
-  
   normExpr_list = getNormalizedCopySparse(data)
   sigScores = innerEvalSignatureBatchNorm(gSets, normExpr_list)
   sigScores

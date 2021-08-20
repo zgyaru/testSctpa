@@ -1,0 +1,236 @@
+p38_mapk_signaling_pathway	p38_mapk_signaling_pathway	MAPK14	HRAS	MAP3K1	MAP3K5	MAP3K9	MAP2K6	RAC1	MAP2K4	NR2C2	MAPKAPK5	RPS6KA5	MAPKAPK2	CDC42	ATF2	DDIT3	ELK1	MAX	MYC	PLA2G1B	STAT1	MKNK1	HSPB1	CREB1	HMGN1
+lectin_induced_complement_pathway	lectin_induced_complement_pathway	MASP2	MBL2	C6	C7	C8A	C8B	C8G	MASP1	C9
+regulation_of_eif_4e_and_p70s6_kinase	regulation_of_eif_4e_and_p70s6_kinase	MAPK14	EIF4A1	EIF4E	AKT1	MTOR	GH1	PABPC1	IRS1	PDK2	PDPK1	PIK3CA	PPP2CA	MAPK1	MAPK3	PSMC4	MKNK1	EIF4G1	EIF4EBP1	RPS6KB1	GHR	PIK3R1
+rna_polymerase_iii_transcription	rna_polymerase_iii_transcription	BRF1	GTF3C1	BDP1	GTF3C5	GTF3C4	GTF3C3	NR3C1
+tnfr2_signaling_pathway	tnfr2_signaling_pathway	TANK	LTA	TNFRSF1B	TRAF1	TRAF2	TRAF3	RIPK1	MAP3K1	MAP3K14
+melanocyte_development_and_pigmentation_pathway	melanocyte_development_and_pigmentation_pathway	CREB1	EP300	HRAS	KIT	KITLG	MITF	MAPK1	MAPK3	MAP2K1	MAP2K2	RAF1	RPS6KA1	BCL2
+stat3_signaling_pathway	stat3_signaling_pathway	MTOR	MAPK1	MAPK3	TYK2	STAT3
+il_7_signal_transduction	il_7_signal_transduction	CREBBP	IL2RG	ITGA2B	JAK1	JAK3	PIK3CA	NMI	EP300	PTK2B	FYN	LCK	PIK3R1	BCL2
+ifn_gamma_signaling_pathway	ifn_gamma_signaling_pathway	FRA16A	IFNG	IFNGR1	JAK1	JAK2	STAT1
+hemoglobins_chaperone	hemoglobins_chaperone	GATA1	HBB	AHSP
+inhibition_of_matrix_metalloproteinases	inhibition_of_matrix_metalloproteinases	MMP14	TIMP2	RECK	MMP2
+proteasome_complex	proteasome_complex	PSMD14	PSMA1	PSMA2	PSMA3	PSMA4	PSMA5	PSMA6	PSMA7	PSMB1	PSMB2	PSMB3	PSMB4	PSMB5	PSMB6	PSMD3	PSMD4	PSMD11	PSMD12	RPN1	RPN2	UBE3A	PSMB7	UBE2A
+granzyme_a_mediated_apoptosis_pathway	granzyme_a_mediated_apoptosis_pathway	GZMA	GZMB	HMGB2	APEX1	NME1	PRF1	SET	ANP32A	CASP3
+nitric_oxide_signaling_pathway	nitric_oxide_signaling_pathway	DLG4	PPP3CA	PPP3CB	PPP3CC	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	NOS1
+role_of_mitochondria_in_apoptotic_signaling	role_of_mitochondria_in_apoptotic_signaling	APAF1	CYCS	DIABLO	BAK1	BAX	BCL2	BCL2L1	BID	BIK	CASP9
+tsp_1_induced_apoptosis_in_microvascular_endothelial_cell	tsp_1_induced_apoptosis_in_microvascular_endothelial_cell	MAPK14	FYN	GZMA	JUN	CASP3	CD36	FOS
+angiotensin_ii_mediated_activation_of_jnk_pathway_via_pyk2_dependent_signaling	angiotensin_ii_mediated_activation_of_jnk_pathway_via_pyk2_dependent_signaling	ATF2	CRKL	AGT	AGTR1	EGFR	ELK1	PTK2B	GNAQ	GRB2	HRAS	MAP3K1	PAK1	MAPK1	MAPK3	MAPK8	MAP2K1	MAP2K2	RAC1	RAF1	MAP2K4	SHC1	SOS1	SRC	BCAR1	JUN	PLCG1	FOS
+stathmin_and_breast_cancer_resistance_to_antimicrotubule_agents	stathmin_and_breast_cancer_resistance_to_antimicrotubule_agents	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	MAPK13	TUBB1	CAMK4	CCNB1	CD2	CD247	CDK1	STMN1
+integrin_signaling_pathway	integrin_signaling_pathway	LAMC3	CRKL	CSK	FYN	LAMA1	GRB2	RAPGEF1	ITGA1	ITGB1	RHOA	LAMA2	LAMA3	LAMA4	LAMA5	LAMB1	LAMB2	LAMB3	LAMC1	LAMC2	PPP1R12B	PTK2	ACTA1	PXN	ROCK1	SHC1	SOS1	TLN1	TNS1	VCL	ZYX	CAPN1	CAV1	BCAR1	SRC	MAPK8	BCR	HRAS	LRPAP1	MLC1
+basic_mechanism_of_action_of_ppara_pparbd_and_pparg_and_effects_on_gene_expression	basic_mechanism_of_action_of_ppara_pparbd_and_pparg_and_effects_on_gene_expression	RXRA	PPARA	PPARD	PPARG
+tpo_signaling_pathway	tpo_signaling_pathway	CSNK2A1	ELK1	GRB2	HRAS	JUN	MPL	PIK3CA	MAPK3	MAP2K1	RAF1	RASA1	SHC1	SOS1	STAT1	THPO	FOS	JAK2	PIK3R1	PLCG1	STAT3
+endocytotic_role_of_ndk_phosphins_and_dynamin	endocytotic_role_of_ndk_phosphins_and_dynamin	AP2M1	AP2A1	EPS15	BIN1	EPN1	NME1	NME2	BIN2	PPP3CA	PPP3CB	PPP3CC	PICALM	DNM1
+il_2_receptor_beta_chain_in_t_cell_activation	il_2_receptor_beta_chain_in_t_cell_activation	CRKL	E2F1	AKT1	IKZF3	GRB2	HRAS	IL2	IL2RA	IL2RB	IL2RG	IRS1	JAK1	JAK3	PDPK1	PIK3CA	PIK3R1	MAPK1	MAPK3	MAP2K1	MAP2K2	PTPN6	RAF1	SHC1	SOS1	TFDP1	SOCS1	CBL	SOCS3	NMI	PCNA	RB1	BCL2	RPS6KB1	FOS	PPIA	FAS	FASLG	BCL2L1
+pelp1_modulation_of_estrogen_receptor_activity	pelp1_modulation_of_estrogen_receptor_activity	PELP1	SRC	CREBBP	EP300	ESR1
+cd40l_signaling_pathway	cd40l_signaling_pathway	TRAF3	TRAF6	CD40	CD40LG	MAP3K1	MAP4K4
+akt_signaling_pathway	akt_signaling_pathway	AKT1	GH1	GHR	HSP90AA1	PDPK1	PIK3CA	PPP2CA	CHUK	BAD	CASP9	PIK3R1
+downregulated_of_mta_3_in_er_negative_breast_tumors	downregulated_of_mta_3_in_er_negative_breast_tumors	ESR1	HDAC1	MTA3	CTSD	ALDOA	GAPDH	HSPB1	PDZK1	GREB1	MBD3
+mtor_signaling_pathway	mtor_signaling_pathway	EIF4A1	EIF4B	EIF4E	EIF4G1	AKT1	FKBP1A	MTOR	GH1	IRS1	PDK2	PDPK1	PIK3CA	PPP2R5D	RHEB	RPS6	RPS6KB1	TSC1	TSC2	MKNK1	EIF3A	EIF4EBP1	GHR	PIK3R1
+ras_signaling_pathway	ras_signaling_pathway	RALBP1	AKT1	HRAS	RHOA	PDPK1	PIK3CA	BAD	RALA	RALGDS	RAC1	CDC42	CHUK	FOXO4	CASP9	PIK3R1	RAF1	PLD1	BCL2L1
+p53_signaling_pathway	p53_signaling_pathway	CDK2	CDK4	CDKN1A	GADD45A	E2F1	MDM2	PCNA	CCND1	TP53	CCNE1	RB1	BCL2	TIMP3
+cxcr4_signaling_pathway	cxcr4_signaling_pathway	GNAI1	GNAQ	GNB1	GNGT1	PIK3CA	CXCL12	CXCR4	PIK3C2G	PLCG1	HRAS	PIK3R1
+corticosteroids_and_cardioprotection	corticosteroids_and_cardioprotection	CORIN	AKT1	GNAS	GNB1	GNGT1	NR3C1	HSP90AA1	KNG1	NOS3	PDPK1	PIK3CA	BDKRB2	CAV1	NPPA	ADRB2	PIK3R1	ANXA1	RELA
+reversal_of_insulin_resistance_by_leptin	reversal_of_insulin_resistance_by_leptin	LEP	LEPR	PRKAG2	PRKAA1	PRKAA2	PRKAB1	PRKAB2	PRKAG1	ACACA
+overview_of_telomerase_rna_component_gene_hterc_transcriptional_regulation	overview_of_telomerase_rna_component_gene_hterc_transcriptional_regulation	NFYA	NFYB	NFYC	RB1	SP1	SP3	TERC
+cell_cycle:_g1s_check_point	cell_cycle:_g1s_check_point	CDK2	CDK4	CDK6	CDKN1A	CDKN1B	CDKN2A	CDKN2B	E2F1	ABL1	GSK3B	HDAC1	SMAD3	SMAD4	ATM	ATR	RB1	CCND1	TFDP1	TGFB1	TP53	CCNE1	CDC25A	DHFR	CCNA1	CDK1
+cdc25_and_chk1_regulatory_pathway_in_response_to_dna_damage	cdc25_and_chk1_regulatory_pathway_in_response_to_dna_damage	CHEK1	MYT1	ATM	RASGRF1	WEE1	YWHAH	CDK1
+lck_and_fyn_tyrosine_kinases_in_initiation_of_tcr_activation	lck_and_fyn_tyrosine_kinases_in_initiation_of_tcr_activation	HLA-DRA	LCK	PTPRC	TRA	TRB	ZAP70	CD3D	CD3E	CD3G	CD247	CD4	HLA-DRB1	FYN
+atm_signaling_pathway	atm_signaling_pathway	CHEK1	TREX1	ABL1	MDM2	ATM	ATR	MAPK8	RBBP8	BRCA1	TP53	CHEK2	RPA1	RAD51	TP73	JUN	GADD45A
+role_of_mef2d_in_t_cell_apoptosis	role_of_mef2d_in_t_cell_apoptosis	EP300	CABIN1	LAT	HDAC1	HLA-DRA	HLA-DRB1	LCK	MEF2D	PPP3CA	PPP3CC	PTPRC	TRA	TRB	ZAP70	CAPN2	CD3D	CD3E	CD3G	CD247	CD4	NR4A1	HDAC2	PPP3CB	PLCG1	FYN	CAPNS1
+role_of_nicotinic_acetylcholine_receptors_in_the_regulation_of_apoptosis	role_of_nicotinic_acetylcholine_receptors_in_the_regulation_of_apoptosis	CHRNB1	CHRNG	AKT1	FOXO3	AGRN	MUSK	PDPK1	PIK3CA	PTK2	RAPSN	SRC	PTK2B	BAD	TERT	FASLG	YWHAH	PIK3R1
+fc_epsilon_receptor_i_signaling_in_mast_cells	fc_epsilon_receptor_i_signaling_in_mast_cells	ELK1	FCER1A	MS4A2	FCER1G	GRB2	HRAS	LYN	MAP3K1	PAK2	PIK3CA	PIK3R1	MAPK1	MAPK3	MAPK8	MAP2K1	MAP2K2	MAP2K7	RAF1	MAP2K4	SHC1	SOS1	SYK	BTK	VAV1	FOS	PLA2G1B	JUN	PLCG1
+pdgf_signaling_pathway	pdgf_signaling_pathway	CSNK2A1	ELK1	GRB2	HRAS	JAK1	JUN	MAP3K1	PDGFA	PDGFRA	PIK3CA	MAPK3	MAPK8	MAP2K1	RAF1	RASA1	MAP2K4	SHC1	SOS1	STAT1	SRF	FOS	STAT3	PIK3R1	PLCG1
+proteolysis_and_signaling_pathway_of_notch	proteolysis_and_signaling_pathway_of_notch	DLL1	NOTCH1	ADAM17	FURIN	PSEN1
+yaci_and_bcma_stimulation_of_b_cell_immune_responses	yaci_and_bcma_stimulation_of_b_cell_immune_responses	TNFSF13B	TNFRSF13B	TNFRSF17	TRAF3	TRAF5	TRAF6	TNFSF13	TRAF2
+phospholipids_as_signalling_intermediaries	phospholipids_as_signalling_intermediaries	S1PR1	AKT1	GNAI1	GNB1	GNGT1	GRB2	HRAS	ITGAV	PDGFA	PDGFRA	PDPK1	PIK3C2G	PIK3CA	MAPK1	MAPK3	MAP2K1	MAP2K2	PTK2	RAF1	SHC1	SOS1	SPHKAP	ADCY1	PIK3R1	RAC1	SRC	ITGB3	SPHK1
+il22_soluble_receptor_signaling_pathway	il22_soluble_receptor_signaling_pathway	IL10RA	IL22	IL22RA1	TYK2	JAK1	IL22RA2
+control_of_skeletal_myogenesis_by_hdac_and_calciumcalmodulin_dependent_kinase_camk	control_of_skeletal_myogenesis_by_hdac_and_calciumcalmodulin_dependent_kinase_camk	CREBBP	MAPK14	AKT1	CABIN1	PDPK1	PIK3CA	YWHAH	EP300	MYOD1	PIK3R1	HDAC5
+segmentation_clock	segmentation_clock	WIF1	CSNK2A1	CTNNB1	DVL1	DKK2	DLL1	GSK3B	RBPJ	LRP6	PROC	ADAM17	WNT1	KREMEN2	AXIN1	FZD1	HES7	DKK1
+phospholipase_c_delta_in_phospholipid_associated_cell_signaling	phospholipase_c_delta_in_phospholipid_associated_cell_signaling	DLC1	ADRA1B	TGM2	PLCD1
+inhibition_of_huntingtons_disease_neurodegeneration_by_histone_deacetylase_inhibitors	inhibition_of_huntingtons_disease_neurodegeneration_by_histone_deacetylase_inhibitors	CREBBP	HTT	CREB1
+cystic_fibrosis_transmembrane_conductance_regulator_cftr_and_beta_2_adrenergic_receptor_b2ar_pathway	cystic_fibrosis_transmembrane_conductance_regulator_cftr_and_beta_2_adrenergic_receptor_b2ar_pathway	CFTR	ADRB2	GNAS	GNB1	GNGT1	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	SLC9A3R1	EZR	ADCY1
+ion_channels_and_their_functional_role_in_vascular_endothelium	ion_channels_and_their_functional_role_in_vascular_endothelium	AKT1	GNAS	GNB1	GNGT1	HSP90AA1	KNG1	NOS3	BDKRB2	CAV1	ADCY1
+extrinsic_prothrombin_activation_pathway	extrinsic_prothrombin_activation_pathway	F2	F2R	F3	F5	F7	F10	FGA	FGB	FGG	SERPINC1	PROS1	PROC	TFPI
+signal_dependent_regulation_of_myogenesis_by_corepressor_mitr	signal_dependent_regulation_of_myogenesis_by_corepressor_mitr	MEF2C	YWHAH	HDAC9
+acetylation_and_deacetylation_of_rela_in_nucleus	acetylation_and_deacetylation_of_rela_in_nucleus	CREBBP	EP300	NFKBIA	RELA	HDAC3
+il_10_anti_inflammatory_signaling_pathway	il_10_anti_inflammatory_signaling_pathway	MAPK14	IL10	IL10RA	IL10RB	JAK1	MAP3K5	MAP2K6	HMOX1
+il_4_signaling_pathway	il_4_signaling_pathway	GRB2	HLA-DRA	IL2RG	IL4	IL4R	JAK1	JAK3	RPS6KB1	STAT6	AKT1	HLA-DRB1	SHC1	HMGA1	FCER2	IGHE
+induction_of_apoptosis_through_dr3_and_dr45_death_receptors	induction_of_apoptosis_through_dr3_and_dr45_death_receptors	PARP1	GAS2	LMNA	ACTA1	BID	SPTAN1	TRAF2	CASP3	CASP8	CASP10	TRADD	TNFRSF25	RIPK1	TNFSF12	TNFSF10	FADD	CASP7	CASP6	MAP3K14
+platelet_amyloid_precursor_protein_pathway	platelet_amyloid_precursor_protein_pathway	COL4A1	COL4A3	COL4A4	COL4A5	COL4A6	F9	SERPINE1	PLAT	PLAU	COL4A2	APP	PLG
+cadmium_induces_dna_synthesis_and_proliferation_in_macrophages	cadmium_induces_dna_synthesis_and_proliferation_in_macrophages	HRAS	NFKBIA	MAP2K1	MAP2K2	RAF1	RELA	MAPK1	MAPK3	FOS	JUN	MYC	CUZD1	TNF
+regulation_of_bad_phosphorylation	regulation_of_bad_phosphorylation	CSF2RB	AKT1	IGF1	IGF1R	IL3	IL3RA	KIT	KITLG	PDPK1	PIK3CA	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	BAD	BAX	BCL2	PIK3R1	BCL2L1	YWHAH
+multiple_antiapoptotic_pathways_from_igf_1r_signaling_lead_to_bad_phosphorylation	multiple_antiapoptotic_pathways_from_igf_1r_signaling_lead_to_bad_phosphorylation	GRB2	IGF1	IGF1R	IRS1	PIK3CA	MAPK3	RAF1	SHC1	SOS1	YWHAH	HRAS	PIK3R1	BAD
+the_information_processing_pathway_at_the_ifn_beta_enhancer	the_information_processing_pathway_at_the_ifn_beta_enhancer	ATF2	CREBBP	NR3C1	GTF2A1	GTF2B	GTF2E1	GTF2F1	GTF3A	HMGB1	JUN	POLR2A	RELA	ACTB	SMARCA4	SMARCB1	SMARCC1	SMARCC2	SMARCD1	SMARCE1	ARID1A	KAT2B	IFNB1
+pten_dependent_cell_cycle_arrest_and_apoptosis	pten_dependent_cell_cycle_arrest_and_apoptosis	AKT1	FOXO3	GRB2	ILK	ITGB1	PDK2	PIK3CA	PTEN	PTK2	SHC1	SOS1	CDKN1B	FASLG	PIK3R1	BCAR1
+how_does_salmonella_hijack_a_cell	how_does_salmonella_hijack_a_cell	ARPC4	ARPC3	ARPC1B	ACTR3	ACTR2	ARPC1A	RAC1	WASF1	WASL	CDC42	ARPC2
+ccr3_signaling_in_eosinophils	ccr3_signaling_in_eosinophils	CCR3	GNAQ	GNAS	GNB1	GNGT1	HRAS	RHOA	LIMK1	PPP1R12B	PIK3C2G	MAP2K1	PTK2	RAF1	CCL11	ROCK2	PLCB1	CFL1	MYL2	MAPK1	MAPK3
+transcription_regulation_by_methyltransferase_of_carm1	transcription_regulation_by_methyltransferase_of_carm1	CARM1	CREB1	CREBBP	EP300	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	RXRA	NCOA3	RARA	BCL2
+vegf_hypoxia_and_angiogenesis	vegf_hypoxia_and_angiogenesis	CSK	AKT1	GRB2	HIF1A	HSP90AA1	KNG1	ARNT	NOS3	PDPK1	PIK3CA	PTK2	PXN	BDKRB2	SHC1	SOS1	SRC	VEGFA	VHL	CAV1	BCAR1	ACTA1	HRAS	PIK3R1	PLCG1
+hiv_1_nef:_negative_effector_of_fas_and_tnf	hiv_1_nef:_negative_effector_of_fas_and_tnf	DAXX	APAF1	BIRC3	FAS	FASLG	MAP3K5	CYCS	MAPK8	MAP2K7	BID	TNF	TRAF1	TRAF2	CASP2	CASP8	CASP9	TRADD	RIPK1	CRADD	FADD	CFLAR	MAP3K14	BAG4	CASP3	CASP6	CASP7	BCL2	CHUK
+inhibition_of_cellular_proliferation_by_gleevec	inhibition_of_cellular_proliferation_by_gleevec	CRKL	AKT1	FOS	GRB2	HRAS	JAK2	JUN	MAP3K1	MYC	PIK3CA	PIK3R1	MAPK3	MAPK8	MAP2K1	RAF1	BCR	MAP2K4	SOS1	STAT1	BCL2
+activation_of_csk_by_camp_dependent_protein_kinase_inhibits_signaling_through_the_t_cell_receptor	activation_of_csk_by_camp_dependent_protein_kinase_inhibits_signaling_through_the_t_cell_receptor	CREBBP	CSK	GNAS	GNB1	GNGT1	HLA-DRA	LCK	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	PTPRC	TRA	TRB	ZAP70	CD3D	CD3E	CD3G	CD247	CD4	ADCY1	HLA-DRB1
+signal_transduction_through_il1r	signal_transduction_through_il1r	TAB1	CHUK	MAPK14	TAB2	FOS	IKBKB	IL1A	IL1B	IL1R1	IL1RAP	IL1RN	JUN	MAP3K1	MYD88	PEBP1	ECSIT	TOLLIP	MAPK8	MAP2K3	MAP2K6	RELA	MAP3K7	TRAF6	MAP4K4	IKBKG	IFNA1	IFNB1	IL6	TNF
+pkc_catalyzed_phosphorylation_of_inhibitory_phosphoprotein_of_myosin_phosphatase	pkc_catalyzed_phosphorylation_of_inhibitory_phosphoprotein_of_myosin_phosphatase	GNA13	GNA12	GNAQ	GNB1	GNGT1	ARHGAP5	MYLK	PPP1R12B	PKN1	ROCK1	PPP1R14A	PLCB1	MYL2
+cycling_of_ran_in_nucleocytoplasmic_transport	cycling_of_ran_in_nucleocytoplasmic_transport	RCC1	NUP210	NUP62	RAN	RANBP1	RANBP2	RANGAP1	NUP214	NUP153
+alk_in_cardiac_myocytes	alk_in_cardiac_myocytes	ATF2	NKX2-5	GATA4	BMPR1A	BMPR2	MAP3K7	TGFBR1	CHRD	NOG	NPPA	NPPB	RFC1	MEF2C	MYL2	TGFBR2
+tnfstress_related_signaling	tnfstress_related_signaling	TANK	CHUK	MAPK14	IKBKB	MAP3K1	MAPK8	MAP4K2	TNF	TNFRSF1A	TRAF2	CASP2	TRADD	RIPK1	CRADD	MAP4K4	BAG4	IKBKG	ATF1	JUN
+b_cell_survival_pathway	b_cell_survival_pathway	LAMC3	AKT1	LAMA1	ITGA1	ITGB1	LAMA2	LAMA3	LAMA4	LAMA5	LAMB1	LAMB2	LAMB3	LAMC1	LAMC2	PDPK1	PIK3CA	BIRC5	PIK3R1	DPF2	CASP3	CASP7	MTOR
+the_41bb_dependent_immune_response	the_41bb_dependent_immune_response	MAPK14	TNFRSF9	TRAF2	TNFSF9	ATF2	MAP3K5
+mcalpain_and_friends_in_cell_motility	mcalpain_and_friends_in_cell_motility	LAMC3	EGF	EGFR	MLC1	LAMA1	GRB2	HRAS	ITGA1	ITGB1	LAMA2	LAMA3	LAMA4	LAMA5	LAMB1	LAMB2	LAMB3	LAMC1	LAMC2	MYLK	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	MAPK1	MAPK3	MAP2K1	MAP2K2	PTK2	ACTA1	PXN	RAC1	SHC1	SOS1	TLN1	EZR	CAPN1	CAPN2	CAPNS1	CAST
+nf_kb_signaling_pathway	nf_kb_signaling_pathway	TAB1	CHUK	IKBKB	IL1A	IL1R1	IRAK1	MAP3K1	MYD88	NFKBIA	RELA	MAP3K7	TLR4	TNF	TRAF6	IKBKG	TRADD	RIPK1	FADD	MAP4K4	NFKB1
+west_nile_virus	west_nile_virus	EEF1A1	APAF1	CYCS	CASP9	CASP3	CASP6	CASP7
+agrin_in_postsynaptic_differentiation	agrin_in_postsynaptic_differentiation	DAG1	DMD	DVL1	EGFR	CTTN	ITGA1	ITGB1	JUN	AGRN	MUSK	MAPK1	MAPK3	MAPK8	PTK2	ACTA1	PXN	RAC1	RAPSN	SP1	SRC	UTRN	GIT2	CDC42
+rho_cell_motility_signaling_pathway	rho_cell_motility_signaling_pathway	DIAPH1	RHOA	LIMK1	MYLK	PPP1R12B	ROCK1	VCL	PIP5K1A	PIP5K1B	PFN1	CFL1	MYL2	TLN1	GSN
+effects_of_calcineurin_in_keratinocyte_differentiation	effects_of_calcineurin_in_keratinocyte_differentiation	GNAQ	PPP3CA	PPP3CC	SP1	SP3	PLCG1	PPP3CB	CDKN1A
+rho_selective_guanine_exchange_factor_akap13_mediates_stress_fiber_formation	rho_selective_guanine_exchange_factor_akap13_mediates_stress_fiber_formation	AKAP13	GNA12	PRKACB	PRKACG	PRKAG1	PRKAR2A	PRKAR2B	RHOA
+apoptotic_dna_fragmentation_and_tissue_homeostasis	apoptotic_dna_fragmentation_and_tissue_homeostasis	DFFB	HMGB2	HMGB1
+tgf_beta_signaling_pathway	tgf_beta_signaling_pathway	TAB1	CREBBP	EP300	SMAD2	SMAD3	SMAD4	SMAD7	MAP2K1	PROC	SAR1A	SKIL	MAP3K7	TGFBR1	TGFBR2	NR2C2	CDH1	MAPK3
+nfkb_activation_by_nontypeable_hemophilus_influenzae	nfkb_activation_by_nontypeable_hemophilus_influenzae	CREBBP	MAPK14	DUSP1	EP300	NR3C1	SMAD3	SMAD4	MYD88	MAPK11	MAP2K3	MAP2K6	RELA	MAP3K7	TGFBR1	TGFBR2	TLR2	IL1B	CXCL8	MUC2	MUC5AC	TNF	MAP4K4
+regulators_of_bone_mineralization	regulators_of_bone_mineralization	COL4A1	COL4A3	COL4A4	COL4A5	COL4A6	ALPL	IBSP	ENPP1	COL4A2
+nfat_and_hypertrophy_of_the_heart	nfat_and_hypertrophy_of_the_heart	HDAC5	CREBBP	NKX2-5	AKT1	GATA4	GRB2	HRAS	MEF2C	PDPK1	PIK3CA	PPP3CA	PPP3CC	RPS6KB1	ELSPBP1	SHC1	SOS1	YWHAH	CAMK4	HAND1	HAND2	TNF	ADSS	GSK3B	EDN1	MYL2	NPPA	ACTA1	PIK3R1	HDAC9	PPP3CB
+chrebp_regulation_by_carbohydrates_and_camp	chrebp_regulation_by_carbohydrates_and_camp	GNAS	GNB1	GNGT1	MLXIPL	PRKAG2	PPP2R5D	PRKAA1	PRKAA2	PRKAB1	PRKAB2	PRKACB	PRKACG	PRKAG1	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	ADCY1	PKLR
+il_6_signaling_pathway	il_6_signaling_pathway	LRPPRC	GRB2	IL6	IL6R	PTPN11	SHC1	SOS1	STAT3	HRAS
+signaling_pathway_from_g_protein_families	signaling_pathway_from_g_protein_families	GNAI1	GNAQ	GNB1	GNGT1	HRAS	PPP3CA	PPP3CC	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	MAPK3	MAP2K1	RAF1	RPS6KA3	GNAS	PLCG1	PPP3CB	CREB1	ELK1
+thrombin_signaling_and_protease_activated_receptors	thrombin_signaling_and_protease_activated_receptors	F2	F2R	GNAI1	GNAQ	GNB1	GNGT1	RHOA	PIK3CA	ROCK1	F2RL3	ADCY1	PTK2B	PLCB1	PIK3R1	MAP3K7	PPP1R12B
+cyclins_and_cell_cycle_regulation	cyclins_and_cell_cycle_regulation	CDK2	CDK4	CDK6	CDK7	CDKN1A	CDKN1B	CDKN2A	CDKN2B	CDKN2C	CDKN2D	E2F1	RBL1	CCND1	CCNA1	CCND2	CCND3	CCNE1	CCNH	CDK1	CDC25A	RB1	TFDP1	CCNB1
+growth_hormone_signaling_pathway	growth_hormone_signaling_pathway	CISH	SLC2A14	GH1	GHR	GRB2	INS	INSR	IRS1	JAK2	PIK3CA	PIK3R1	PTPN6	RPS6KA1	SOS1	SRF	PLCG1	SHC1	HNF1A
+gamma_aminobutyric_acid_receptor_life_cycle_pathway	gamma_aminobutyric_acid_receptor_life_cycle_pathway	GPHN	GABARAP	DNM1	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	UBQLN1	NSF
+map_kinase_inactivation_of_smrt_corepressor	map_kinase_inactivation_of_smrt_corepressor	MAPK14	EGF	EGFR	GRB2	HRAS	MAP3K1	MAP2K1	RAC1	RXRA	MAP2K4	SHC1	SOS1	NCOR2	RARA
+fas_signaling_pathway_cd95	fas_signaling_pathway_cd95	FAF1	DAXX	FAS	FASLG	MAP3K1	PAK1	PAK2	PRKDC	PTPN13	RB1	MAP2K4	MAP3K7	CASP8	CASP10	RIPK2	FADD	CFLAR	CASP7	CASP3	MAPK8
+g_secretase_mediated_erbb4_signaling_pathway	g_secretase_mediated_erbb4_signaling_pathway	ERBB4	PSEN1	ADAM17
+role_of_mal_in_rho_mediated_activation_of_srf	role_of_mal_in_rho_mediated_activation_of_srf	DIAPH1	HRAS	RHOA	LIMK1	MAL	MAP3K1	MAPK1	MAPK3	MAPK8	MAP2K1	MAP2K2	MAP4K2	RAC1	RAF1	ROCK1	SRF	CDC42	ACTA1	HNF1A
+d4gdi_signaling_pathway	d4gdi_signaling_pathway	RHOA	ARHGAP5	ARHGDIB	CASP1	CASP3	JUN
+how_progesterone_initiates_the_oocyte_maturation	how_progesterone_initiates_the_oocyte_maturation	ADCY1	GNAI1	GNB1	GNGT1	HRAS	MYT1	PGR	PIN1	PAQR5	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	MAPK1	MAPK3	SRC	CDK1	CDC25C	CAP1	GNAS	CCNB1
+e2f1_destruction_pathway	e2f1_destruction_pathway	CDK2	E2F1	SKP1	CUL1	CCNA1	CCNE1	CDC34	RB1	TFDP1	SKP2
+er_associated_degradation_erad_pathway	er_associated_degradation_erad_pathway	SAE1	FBXO2	SKP1	UBE2I	CUL1	RBX1
+multi_step_regulation_of_transcription_by_pitx2	multi_step_regulation_of_transcription_by_pitx2	FRAT1	KAT5	WIF1	CREBBP	CSNK2A1	CTNNB1	DVL1	EP300	DKK2	GSK3B	LRP6	LEF1	PITX2	MED1	PPP2R5D	PROC	WNT1	KREMEN2	TRRAP	AXIN1	FZD1	LDB1	CCND2	HDAC1	DKK1
+nuclear_receptors_coordinate_the_activities_of_chromatin_remodeling_complexes_and_coactivators_to_facilitate_initiation_of_transcription_in_carcinoma_cells	nuclear_receptors_coordinate_the_activities_of_chromatin_remodeling_complexes_and_coactivators_to_facilitate_initiation_of_transcription_in_carcinoma_cells	NCOA2	RXRA	NCOA3	NCOA1	HDAC3	KAT2B	NCOR2	RARA
+protein_kinase_a_at_the_centrosome	protein_kinase_a_at_the_centrosome	AKAP9	RHOA	PPP2R5D	PRKACB	PRKACG	PRKAG1	PRKAR2A	PRKAR2B	PRKCE	PKN1	CDK1	PPP1CA
+carm1_and_regulation_of_the_estrogen_receptor	carm1_and_regulation_of_the_estrogen_receptor	CARM1	CREBBP	EP300	GRIP1	ESR1
+no2_dependent_il_12_pathway_in_nk_cells	no2_dependent_il_12_pathway_in_nk_cells	IL12RB1	IL12RB2	JAK2	STAT4	TYK2	IFNG
+sprouty_regulation_of_tyrosine_kinase_signals	sprouty_regulation_of_tyrosine_kinase_signals	EGF	EGFR	GRB2	HRAS	MAPK1	MAPK3	MAP2K1	MAP2K2	RAF1	RASA1	SHC1	SOS1	SRC	CBL
+ras_independent_pathway_in_nk_cell_mediated_cytotoxicity	ras_independent_pathway_in_nk_cell_mediated_cytotoxicity	LAT	HLA-A	KLRC1	KLRC2	KLRC3	KLRD1	PAK1	PIK3CA	PIK3R1	MAPK3	MAP2K1	B2M	PTPN6	RAC1	SYK	VAV1	KLRC4	IL18
+deregulation_of_cdk5_in_alzheimers_disease	deregulation_of_cdk5_in_alzheimers_disease	CDK5	GSK3B	PPP2R5D	MAPT	CDK5R1
+role_of_ppar_gamma_coactivators_in_obesity_and_thermogenesis	role_of_ppar_gamma_coactivators_in_obesity_and_thermogenesis	NCOA2	PPARGC1A	CREBBP	EP300	PPARG	MED1	RXRA	NCOA1	LPL
+phosphoinositides_and_their_downstream_targets	phosphoinositides_and_their_downstream_targets	GRASP	AKT1	LYN	PDPK1	RAB5A	BTK	VAV2	ARF1	GSK3A	GSK3B	BAD	PRKCE	RPS6KB1	EEA1	PLCG1	RAC1
+stress_induction_of_hsp_regulation	stress_induction_of_hsp_regulation	DAXX	APAF1	HSPB1	IL1A	FASLG	CYCS	BCL2	TNF	MAPKAPK3	CASP9	MAPKAPK2	FAS	CASP3	ACTA1
+eukaryotic_protein_translation	eukaryotic_protein_translation	EIF1	EIF1AX	EIF2S1	EIF2S3	EIF4A1	EIF4A2	EIF4E	EIF4G1	EIF4G2	EIF5	EIF3A	EIF4G3	EIF2S2
+fmlp_induced_chemokine_gene_expression_in_hmc_1_cells	fmlp_induced_chemokine_gene_expression_in_hmc_1_cells	FPR1	GNA15	GNB1	GNGT1	HRAS	PIK3C2G	PPP3CA	PPP3CC	MAPK1	MAPK3	MAP2K1	MAP2K2	MAP2K3	MAP2K6	RAC1	RAF1	PLCB1	PPP3CB	ELK1	NCF1C	MAPK14	NCF2	PAK1
+cbl_mediated_ligand_induced_downregulation_of_egf_receptors_pathway	cbl_mediated_ligand_induced_downregulation_of_egf_receptors_pathway	EGF	EGFR	SRC	CBL
+skeletal_muscle_hypertrophy_is_regulated_via_akt_mtor_pathway	skeletal_muscle_hypertrophy_is_regulated_via_akt_mtor_pathway	EIF2S1	EIF2S3	EIF4A1	EIF4E	AKT1	MTOR	PABPC1	GSK3B	IGF1	IGF1R	INPPL1	PDK2	PDPK1	PIK3CA	PPP2R5D	PSMC4	RPS6KB1	MKNK1	EIF2B5	EIF2S2	EIF4G1	EIF4EBP1	PIK3R1	RPS6
+mets_affect_on_macrophage_differentiation	mets_affect_on_macrophage_differentiation	DDX20	CSF1	CSF1R	E2F4	ETS1	ETS2	ETV3	FOS	HRAS	JUN	RBL1	RBL2	NCOR2	E2F1
+soddtnfr1_signaling_pathway	soddtnfr1_signaling_pathway	BIRC3	TRAF2	MADD	TRADD	RIPK1	CRADD	BAG4	TNF
+phosphorylation_of_mek1_by_cdk5p35_down_regulates_the_map_kinase_pathway	phosphorylation_of_mek1_by_cdk5p35_down_regulates_the_map_kinase_pathway	CDK5	EGR1	GRB2	HRAS	NGF	NGFR	MAPK1	MAPK3	MAP2K1	MAP2K2	RAF1	SHC1	SOS1	CDK5R1
+antigen_processing_and_presentation	antigen_processing_and_presentation	HLA-A	HLA-DRA	CD74	B2M	HLA-DRB1
+pertussis_toxin_insensitive_ccr5_signaling_in_macrophage	pertussis_toxin_insensitive_ccr5_signaling_in_macrophage	CCR5	FOS	GNAQ	JUN	CCL4	CXCL12	CXCR4	PLCG1	CCL2
+attenuation_of_gpcr_signaling	attenuation_of_gpcr_signaling	GNB1	GNGT1	GRK4	ARRB1	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	GNAS
+ß_arrestins_in_gpcr_desensitization	ß_arrestins_in_gpcr_desensitization	AP2M1	GRK2	AP2A1	DNM1	GNB1	GNGT1	ARRB1	GNAS
+fibrinolysis_pathway	fibrinolysis_pathway	F2	F2R	FGA	FGB	FGG	SERPINC1	SERPINE1	SERPINB2	PLAT	PLAU	PLG	UBA1	UBE2A	CPB2
+trka_receptor_signaling_pathway	trka_receptor_signaling_pathway	GRB2	NGF	NTRK1	PDPK1	PIK3CA	SHC1	SOS1	HRAS	PIK3R1	PLCG1	AKT1
+insulin_signaling_pathway	insulin_signaling_pathway	GRB2	INS	INSR	IRS1	PIK3CA	PTPN11	SHC1	SOS1	HRAS	PIK3R1
+il_3_signaling_pathway	il_3_signaling_pathway	CSF2RB	GRB2	IL3	IL3RA	JAK2	PTPN6	SHC1	SOS1	HRAS
+role_of_ß_arrestins_in_the_activation_and_targeting_of_map_kinases	role_of_ß_arrestins_in_the_activation_and_targeting_of_map_kinases	GRK2	DNM1	GNB1	GNGT1	ARRB1	MAPK1	MAPK3	MAP2K1	MAP2K2	RAF1	GNAS
+t_cell_receptor_signaling_pathway	t_cell_receptor_signaling_pathway	FYN	LAT	GRB2	HLA-DRA	HLA-DRB1	HRAS	JUN	LCK	MAP3K1	PIK3CA	PIK3R1	PPP3CA	PPP3CC	MAPK3	MAPK8	MAP2K1	PTPN7	PTPRC	RAC1	RAF1	MAP2K4	SHC1	SOS1	TRA	TRB	VAV1	ZAP70	CD3D	CD3E	CD3G	CD247	CD4	PLCG1	FOS	PPP3CB	ELK1
+ifn_alpha_signaling_pathway	ifn_alpha_signaling_pathway	IFNA1	IFNAR1	IFNAR2	IFNB1	JAK1	STAT1	STAT2	TYK2	ST13
+the_igf_1_receptor_and_longevity	the_igf_1_receptor_and_longevity	AKT1	GRB2	IGF1	IGF1R	IRS1	PDPK1	PIK3CA	SHC1	SOS1	CAT	HRAS	PIK3R1
+double_stranded_rna_induced_gene_expression	double_stranded_rna_induced_gene_expression	EIF2S1	EIF2S3	EIF2AK2	DNAJC3	RELA	EIF2S2	TP53	MAP4K4	IFNA1	IFNB1
+rb_tumor_suppressorcheckpoint_signaling_in_response_to_dna_damage	rb_tumor_suppressorcheckpoint_signaling_in_response_to_dna_damage	CDK2	CDK4	CDKN1A	CHEK1	E2F1	MYT1	ATM	RASGRF1	TP53	WEE1	RB1	CDK1	YWHAH
+y_branching_of_actin_filaments	y_branching_of_actin_filaments	ARPC4	ARPC3	ARPC1B	ACTR3	ACTR2	ARPC2	ARPC1A	NCKAP1	ABL2	PSMA7	PIR	CDC42	WASL	NCK1	RAC1
+roles_of_ß_arrestin_dependent_recruitment_of_src_kinases_in_gpcr_signaling	roles_of_ß_arrestin_dependent_recruitment_of_src_kinases_in_gpcr_signaling	GRK2	DNM1	GNB1	GNGT1	HRAS	ARRB1	MAPK1	MAPK3	MAP2K1	MAP2K2	RAF1	GNAS
+bcr_signaling_pathway	bcr_signaling_pathway	MAPK14	CSNK2A1	ELK1	GRB2	BLNK	HRAS	JUN	LYN	MAP3K1	PPP3CA	PPP3CC	MAPK3	MAPK8	MAP2K1	RAC1	RAF1	BCR	SHC1	SOS1	SYK	BTK	VAV1	CD79A	CD79B	FOS	PLCG1	PPP3CB
+rac1_cell_motility_signaling_pathway	rac1_cell_motility_signaling_pathway	CDK5	CADM1	LIMK1	MYLK	PPP1R12B	PAK1	PDGFRA	PIK3CA	RAC1	CDK5R1	CFL1	MYL2	PIK3R1	ARFIP2	MAP3K1	PLD1	RPS6KB1	WASF1
+intrinsic_prothrombin_activation_pathway	intrinsic_prothrombin_activation_pathway	COL4A1	COL4A3	COL4A4	COL4A5	COL4A6	F2	F2R	F5	F9	F11	F12	FGA	FGB	FGG	KNG1	SERPINC1	PROS1	SERPING1	COL4A2	PROC	KLKB1
+overview_of_telomerase_protein_component_gene_htert_transcriptional_regulation	overview_of_telomerase_protein_component_gene_htert_transcriptional_regulation	ESR1	HDAC1	MXD1	MAX	MYC	SP1	WT1	MZF1	TERT	TP53
+regulation_of_cell_cycle_progression_by_plk3	regulation_of_cell_cycle_progression_by_plk3	CHEK1	CHEK2	TREX1	PLK3	APAF1	ATM	CYCS	ATR	BAX	RASGRF1	TP53	YWHAH	CASP9	CDK1	CASP3	CASP6	CASP7	CCNB1
+bone_remodeling	bone_remodeling	IRF9	FOS	IFNAR1	IFNAR2	IFNB1	TRAF6	TNFSF11	TNFRSF11A	FOSL2	FOSL1	MAPK8
+calcium_signaling_by_hbx_of_hepatitis_b_virus	calcium_signaling_by_hbx_of_hepatitis_b_virus	CSNK2A1	PTK2B	GRB2	HRAS	JUN	MAPK3	MAP2K1	RAF1	SHC1	SOS1	SRC	FOS
+erk1erk2_mapk_signaling_pathway	erk1erk2_mapk_signaling_pathway	GRB2	HRAS	NGF	NGFR	PPP2R5D	MAPK1	MAPK3	MAP2K1	MAP2K2	PTPRR	RAF1	SHC1	SOS1	SRC	ELK1	MKNK2	MYC	RPS6KA1	STAT3	TERT	MKNK1	RPS6KA5
+opposing_roles_of_aif_in_apoptosis_and_cell_survival	opposing_roles_of_aif_in_apoptosis_and_cell_survival	PARP1	BCL2L1	AIFM1
+role_of_erbb2_in_signal_transduction_and_oncology	role_of_erbb2_in_signal_transduction_and_oncology	LRPPRC	CARM1	EP300	ERBB2	ERBB3	GRIP1	GRB2	HRAS	IL6	IL6R	PDPK1	PIK3CA	MAPK1	MAPK3	MAP2K1	MAP2K2	RAF1	SHC1	SOS1	STAT3	ESR1	PIK3R1	AKT1
+cdk_regulation_of_dna_replication	cdk_regulation_of_dna_replication	CDK2	ORC6	ORC3	MCM2	MCM3	MCM4	MCM5	MCM6	MCM7	KITLG	ORC1	ORC2	ORC4	ORC5	CDT1	CCNE1	CDC6	CDKN1B
+activation_of_camp_dependent_protein_kinase_pka	activation_of_camp_dependent_protein_kinase_pka	GNAS	GNB1	GNGT1	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2B	ADCY1	PRKAR2A
+keratinocyte_differentiation	keratinocyte_differentiation	MAPK14	DAXX	EGF	EGFR	FOS	GRB2	HOXA7	HRAS	FAS	FASLG	JUN	MAP3K1	MAP3K5	PPP2R5D	MAPK1	MAPK3	MAPK8	MAPK13	MAP2K1	MAP2K2	MAP2K3	MAP2K6	MAP2K7	RAF1	RELA	MAP2K4	SHC1	SOS1	SP1	TNF	TRAF2	RIPK1	CEBPA	MAP4K4	BCL2	BIRC2	BIRC3	TRAF1
+ctcf:_first_multivalent_nuclear_factor	ctcf:_first_multivalent_nuclear_factor	CDKN2A	CTCF	MTOR	MYC	PIK3CA	PIK3R1	PPP2R5D	BCR	RPS6KB1	TGFBR1	TGFBR2	CD79A	CD79B	MDM2	CDKN1B	PTEN
+internal_ribosome_entry_pathway	internal_ribosome_entry_pathway	EIF4A1	EIF4E	EIF4G1	EIF4G2	EIF3A	EIF4G3
+mapkinase_signaling_pathway	mapkinase_signaling_pathway	MAP3K1	MAPK7	MAP2K5	MAP2K6	MAP2K7	RAC1	RPS6KA1	MAP3K7	MAP3K14	MAP3K13	MAP2K1	MAP2K2	MAP2K3	MAP2K4	MAPK14	PAK1	PAK2	CHUK	IKBKB
+wnt_lrp6_signalling	wnt_lrp6_signalling	DKK2	LRP6	KREMEN2	FZD1	DKK1
+toll_like_receptor_pathway	toll_like_receptor_pathway	TLR6	TAB1	TIRAP	CHUK	MAPK14	TAB2	LY96	IKBKB	IRAK1	JUN	MAP3K1	MYD88	TLR7	ECSIT	TLR9	TOLLIP	PPARA	MAPK8	MAP2K3	MAP2K6	EIF2AK2	RELA	MAP2K4	MAP3K7	TLR2	TLR3	TLR4	TRAF6	MAP3K14	CD14	IKBKG	ELK1	FOS
+bioactive_peptide_induced_signaling_pathway	bioactive_peptide_induced_signaling_pathway	CDK5	AGT	AGTR2	PTK2B	GNA11	GNAI1	GNB1	GNGT1	GRB2	PIK3CA	MAPK8	SHC1	SOS1	MAPT	PIK3R1	MAPK14	HRAS
+role_of_erk5_in_neuronal_survival_pathway	role_of_erk5_in_neuronal_survival_pathway	GRB2	HRAS	NTRK1	PDPK1	PIK3CA	MAPK1	MAPK3	MAPK7	MAP2K1	MAP2K2	MAP2K5	RAF1	RPS6KA1	SHC1	SOS1	PIK3R1	PLCG1	AKT1	CREB1
+sonic_hedgehog_receptor_ptc1_regulates_cell_cycle	sonic_hedgehog_receptor_ptc1_regulates_cell_cycle	CDK7	MNAT1	PTCH1	RASGRF1	XPO1	CCNB1	CCNH	CDK1	SHH
+control_of_gene_expression_by_vitamin_d_receptor	control_of_gene_expression_by_vitamin_d_receptor	CHAF1A	CARM1	NCOA2	SUPT16H	CREBBP	HDAC1	MED1	RXRA	SMARCA4	SMARCC1	SMARCD1	SMARCE1	TOP2B	TSC2	VDR	NCOA3	ARID1A	ACTL6A	NCOA1	BAZ1B	COPS2	SMARCC2	PRMT1	KAT2B	EP300	NCOR1	SNW1
+g_protein_signaling_through_tubby_proteins	g_protein_signaling_through_tubby_proteins	GNAQ	GNB1	GNGT1	TUB
+btg_family_proteins_and_cell_cycle_regulation	btg_family_proteins_and_cell_cycle_regulation	CHAF1A	CCND1	BTG1	TP53	BTG2	CHAF1B	RB1	PRMT1	HOXB9
+mechanism_of_acetaminophen_activity_and_toxicity	mechanism_of_acetaminophen_activity_and_toxicity	NR1I3	CYP1A2	CYP2E1
+mechanism_of_gene_regulation_by_peroxisome_proliferators_via_ppara	mechanism_of_gene_regulation_by_peroxisome_proliferators_via_ppara	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2B	RXRA	PRKAR2A	PPARA
+erk_and_pi_3_kinase_are_necessary_for_collagen_binding_in_corneal_epithelia	erk_and_pi_3_kinase_are_necessary_for_collagen_binding_in_corneal_epithelia	LAMC3	CSK	DIAPH1	LAMA1	ITGA1	ITGB1	RHOA	LAMA2	LAMA3	LAMA4	LAMA5	LAMB1	LAMB2	LAMB3	LAMC1	LAMC2	ARHGAP5	MYLK	PIK3CA	PIK3R1	MAPK1	MAPK3	MAP2K1	PTK2	ACTA1	PXN	ROCK1	SRC	TLN1	TNS1	VCL	ZYX	CAPN1	BCAR1	PFN1	MLC1
+the_co_stimulatory_signal_during_t_cell_activation	the_co_stimulatory_signal_during_t_cell_activation	CTLA4	GRB2	ICOS	HLA-DRA	PIK3CA	TRA	TRB	CD3D	CD3E	CD3G	CD247	CD28	CD80	CD86	PTPN11	ITK	ICOSLG	HLA-DRB1	PIK3R1	LCK
+ahr_signal_transduction_pathway	ahr_signal_transduction_pathway	AHR	AIP	HSP90AA1	ARNT
+regulation_of_spermatogenesis_by_crem	regulation_of_spermatogenesis_by_crem	CREM	FSHR	GNAS	GNB1	GNGT1	KIF17	XPO1	FHL5	FSHB	ADCY1
+ceramide_signaling_pathway	ceramide_signaling_pathway	BIRC3	MAP3K1	CYCS	MAP2K1	MAP2K2	BAD	BAX	RAF1	BCL2	RELA	MAP2K4	TNF	TRAF2	CASP8	MADD	TRADD	RIPK1	CRADD	KSR1	AIFM1	BAG4	SMPD1	NSMAF	FADD	MAP4K4	MAPK1	MAPK3	MAPK8
+epo_signaling_pathway	epo_signaling_pathway	EPO	EPOR	GRB2	PTPN6	SHC1	SOS1	JAK2	PLCG1	HRAS
+visual_signal_transduction	visual_signal_transduction	GNAT1	GNB1	GUCA1A	PDE6A	PDE6G	GNGT2	PDE6B	SLC25A22	SLC25A18
+hypoxia_inducible_factor_in_the_cardivascular_system	hypoxia_inducible_factor_in_the_cardivascular_system	COPS5	CREB1	EP300	HIF1A	HSP90AA1	JUN	ARNT	ASPH	P4HB	VHL	EDN1	EPO	LDHA	NOS3	VEGFA	UBE2A
+links_between_pyk2_and_map_kinases	links_between_pyk2_and_map_kinases	CRKL	MAPK14	PTK2B	GNAQ	GRB2	HRAS	MAP3K1	PAK1	MAPK1	MAPK3	MAPK8	MAP2K1	MAP2K2	MAP2K3	RAC1	RAF1	MAP2K4	SHC1	SOS1	SRC	BCAR1	PLCG1	JUN
+nerve_growth_factor_pathway_ngf	nerve_growth_factor_pathway_ngf	CSNK2A1	ELK1	GRB2	HRAS	JUN	NGF	NGFR	PIK3CA	MAPK3	MAPK8	MAP2K1	RAF1	SHC1	SOS1	FOS	PIK3R1	PLCG1
+actions_of_nitric_oxide_in_the_heart	actions_of_nitric_oxide_in_the_heart	AKT1	GNAQ	GNB1	GNGT1	HSP90AA1	KNG1	NOS3	PDE3A	PDPK1	PIK3CA	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2B	BDKRB2	VEGFA	CAV1	PLCG1	PDE3B	PIK3R1	PRKAR2A
+fosb_gene_expression_and_drug_abuse	fosb_gene_expression_and_drug_abuse	CDK5	FOSB	JUND	PPP1R1B	GRIA2
+sumoylation_as_a_mechanism_to_modulate_ctbp_dependent_gene_responses	sumoylation_as_a_mechanism_to_modulate_ctbp_dependent_gene_responses	CTBP1	ZEB1	UBA1	UBE2A	UBE3A	SUMO1	NOS1	CDH1
+il12_and_stat4_dependent_signaling_pathway_in_th1_development	il12_and_stat4_dependent_signaling_pathway_in_th1_development	MAPK14	ETV5	IL12RB1	IL12RB2	JAK2	JUN	MAPK8	MAP2K6	STAT4	TYK2	CCR5	IFNG	IL18R1
+visceral_fat_deposits_and_the_metabolic_syndrome	visceral_fat_deposits_and_the_metabolic_syndrome	NR3C1	PPARG	RXRA	LPL	RETN	TNF	ADIPOQ	HSD11B1
+regulation_of_eif2	regulation_of_eif2	EIF2S1	EIF2S3	EIF5	EIF2AK1	GSK3B	EIF2AK4	NPY4R	EIF2AK2	EIF2B5	EIF2S2	EIF2AK3
+akap95_role_in_mitosis_and_chromosome_dynamics	akap95_role_in_mitosis_and_chromosome_dynamics	AKAP8	PPP2R5D	NPY4R	PRKACB	PRKACG	PRKAR2A	PRKAR2B	CCNB1	CDK1	NCAPD2	PRKAG1
+prion_pathway	prion_pathway	DNAJB6	DNAJB1P1	GFAP	HSPA5	RPSA	BCL2	PRNP
+hop_pathway_in_cardiac_development	hop_pathway_in_cardiac_development	NKX2-5	GATA4	SRF	HOPX
+antisense_pathway	antisense_pathway	NONO	SFPQ	MATR3
+phospholipase_c_epsilon_pathway	phospholipase_c_epsilon_pathway	RAPGEF3	ADRB2	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2B	PTGER1	RAP2B	GNAS	PRKAR2A	PLCE1
+oxidative_stress_induced_gene_expression_via_nrf2	oxidative_stress_induced_gene_expression_via_nrf2	NFE2L2	CRYZ	GSTA2	POR	UGT1A6	AKR7A2	KEAP1
+tnfr1_signaling_pathway	tnfr1_signaling_pathway	BIRC3	LMNB1	TNF	TNFRSF1A	TRAF2	CASP2	CASP8	LMNB2	MADD	TRADD	RIPK1	CRADD	BAG4	MAP2K4	FADD	LMNA	CASP3
+mechanism_of_protein_import_into_the_nucleus	mechanism_of_protein_import_into_the_nucleus	NUTF2	RCC1	NUP210	NUP62	KPNB1	KPNA2	RAN	RANBP1	RANBP2	RANGAP1	NUP214	NUP153
+alternative_complement_pathway	alternative_complement_pathway	CFD	CFP	C6	C7	C8A	C8B	C8G	C3	C5	C9
+gata3_participate_in_activating_the_th2_cytokine_genes_expression	gata3_participate_in_activating_the_th2_cytokine_genes_expression	ADCY1	MAPK14	GATA3	JUNB	MAF	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2B	MAP2K3	MAP2K6	GNAS	IL5	IL13	IL4	PRKAR2A
+regulation_of_splicing_through_sam68	regulation_of_splicing_through_sam68	KHDRBS1	HRAS	MAPK1	MAPK3	MAP2K1	MAP2K2	RAF1	SRC	CDK1	RASA1
+mechanisms_of_transcriptional_repression_by_dna_methylation	mechanisms_of_transcriptional_repression_by_dna_methylation	SAP18	HDAC1	HDAC2	MBD3	RBBP4	RBBP7	SAP30	MBD2	MTA2	MECP2
+role_of_pi3k_subunit_p85_in_regulation_of_actin_organization_and_cell_migration	role_of_pi3k_subunit_p85_in_regulation_of_actin_organization_and_cell_migration	ARPC4	ARPC3	ARPC1B	ACTR3	ACTR2	ARPC1A	PAK1	PDGFA	PDGFRA	PIK3CA	PIK3R1	WASL	CDC42	ARPC2	RHOA	RAC1
+telomeres_telomerase_cellular_aging_and_immortality	telomeres_telomerase_cellular_aging_and_immortality	AKT1	XRCC6	POLR2A	PPP2R5D	PRKCA	RB1	TERT	TP53	XRCC5	TNKS	TEP1	TERF1
+role_of_brca1_brca2_and_atr_in_cancer_susceptibility	role_of_brca1_brca2_and_atr_in_cancer_susceptibility	RAD50	CHEK1	TREX1	FANCA	FANCC	FANCE	FANCF	HUS1	NBN	ATM	ATR	RAD1	RAD9A	RAD17	RAD51	MRE11	TP53	CHEK2	BRCA1	BRCA2	FANCG
+cyclin_e_destruction_pathway	cyclin_e_destruction_pathway	CDK2	E2F1	FBXW7	TFDP1	CUL1	CCNE1	CDC34	RB1	SKP1
+influence_of_ras_and_rho_proteins_on_g1_to_s_transition	influence_of_ras_and_rho_proteins_on_g1_to_s_transition	CDK2	CDK4	CDK6	CDKN1A	CDKN1B	E2F1	AKT1	HRAS	RHOA	PAK1	PDPK1	PIK3CA	PIK3R1	MAPK1	MAPK3	MAP2K1	MAP2K2	RAC1	RAF1	CCND1	RELA	TFDP1	CCNE1	RB1
+hypoxia_and_p53_in_the_cardiovascular_system	hypoxia_and_p53_in_the_cardiovascular_system	DNAJB1P1	EP300	AKT1	HIF1A	HSPA1A	HSP90AA1	MDM2	ATM	MAPK8	RPA1	TAF1	TP53	UBE2A	CDKN1A	GADD45A	FHL2	IGFBP3	ABCB1	BAX	HIC1	NFKBIB
+human_cytomegalovirus_and_map_kinase_pathways	human_cytomegalovirus_and_map_kinase_pathways	MAPK14	MAP3K1	PDPK1	PIK3CA	PIK3R1	MAPK1	MAPK3	MAP2K1	MAP2K2	MAP2K3	MAP2K6	CREB1	RB1	RELA	SP1	AKT1
+repression_of_pain_sensation_by_the_transcriptional_regulator_dream	repression_of_pain_sensation_by_the_transcriptional_regulator_dream	CREM	FOS	JUN	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	MAPK3	RPS6KA3	KCNIP3	CREB1
+role_of_egf_receptor_transactivation_by_gpcrs_in_cardiac_hypertrophy	role_of_egf_receptor_transactivation_by_gpcrs_in_cardiac_hypertrophy	AGT	AGTR2	EDN1	EGF	EGFR	GNA11	GNB1	GNGT1	GRB2	HRAS	MAPK1	MAPK3	MAP2K1	MAP2K2	RAF1	SHC1	SOS1	ADAM12	PLCG1	RHOA	FOS	JUN	MYC	RPS6KA1
+aspirin_blocks_signaling_pathway_involved_in_platelet_activation	aspirin_blocks_signaling_pathway_involved_in_platelet_activation	F2	F2R	GNAI1	GNB1	GNGT1	HRAS	MAPK1	MAPK3	MAP2K1	RAF1	F2RL3	PLCB1	PLA2G4A
+chaperones_modulate_interferon_signaling_pathway	chaperones_modulate_interferon_signaling_pathway	USH1C	FRA16A	TAX1BP3	HSPA1A	IFNG	JAK2	CNTN2	DNAJA3	LIN7A	IFNGR1	RB1	TP53	WT1
+egf_signaling_pathway	egf_signaling_pathway	EGF	EGFR	GRB2	HRAS	MAP3K1	PIK3CA	RASA1	MAP2K4	SHC1	SOS1	STAT1	JAK1	PIK3R1	PLCG1	STAT3	MAP2K1	MAPK8
+trefoil_factors_initiate_mucosal_healing	trefoil_factors_initiate_mucosal_healing	EGFR	ERBB2	AKT1	GH1	GHR	GRB2	APAF1	HRAS	RHOA	PDPK1	PIK3CA	CYCS	MAPK1	MAPK3	MAP2K1	MAP2K2	BAD	RAF1	RELA	SHC1	SOS1	CASP9	CTNNB1	PIK3R1	CASP3	CASP6	CASP7	RPS6KA1	MUC2
+il_2_signaling_pathway	il_2_signaling_pathway	GRB2	IL2	IL2RA	IL2RB	IL2RG	JAK1	JAK3	LCK	SHC1	SOS1	SYK	HRAS
+cell_cycle:_g2m_checkpoint	cell_cycle:_g2m_checkpoint	CDKN1A	CHEK1	CHEK2	GADD45A	EP300	MDM2	MYT1	ATM	PI4KA	ATR	PRKDC	RASGRF1	RPS6KA1	TP53	WEE1	CCNB1	CDK1	CDKN2D	SFN	BRCA1	YWHAH
+regulation_of_transcriptional_activity_by_pml	regulation_of_transcriptional_activity_by_pml	CREBBP	DAXX	SIRT1	PML	RB1	SP100	TP53	UBE2I	PRAM1	SUMO1
+cell_to_cell_adhesion_signaling	cell_to_cell_adhesion_signaling	CSK	CTNNA1	PECAM1	PTK2	PTPN11	ACTA1	PXN	SRC	VCL	BCAR1	CTNNB1
+generation_of_amyloid_b_peptide_by_ps1	generation_of_amyloid_b_peptide_by_ps1	APP	ADAM10	BACE1	PSEN1
+role_of_ran_in_mitotic_spindle_regulation	role_of_ran_in_mitotic_spindle_regulation	RCC1	TPX2	KPNB1	KPNA2	NUMA1	KIF15	RAN	RANBP1	RANBP2	RANGAP1	AURKA
+igf_1_signaling_pathway	igf_1_signaling_pathway	CSNK2A1	ELK1	GRB2	HRAS	IGF1	IGF1R	IRS1	JUN	PIK3CA	MAPK3	MAPK8	MAP2K1	PTPN11	RAF1	RASA1	SHC1	SOS1	SRF	FOS	PIK3R1
+cardiac_protection_against_ros	cardiac_protection_against_ros	GABRA1	GABRA2	GABRA3	GABRA4	GABRA6	GABRA5
+classical_complement_pathway	classical_complement_pathway	C1QA	C1QC	C1R	C1S	C6	C7	C8A	C8B	C8G	C1QB	C9
+regulation_of_pgc_1a	regulation_of_pgc_1a	PPARGC1A	ESRRA	PPP3CA	PPP3CC	YWHAH	CAMK4	SLC2A14	PPARA	PPP3CB	HDAC5
+basic_mechanisms_of_sumoylation	basic_mechanisms_of_sumoylation	UBA2	SAE1	SUMO3	SUMO2	UBE2I	SUMO1
+caspase_cascade_in_apoptosis	caspase_cascade_in_apoptosis	PARP1	GZMB	APAF1	BIRC2	BIRC3	XIAP	ARHGDIB	LMNB1	PRF1	SREBF1	CASP1	CASP2	CASP3	CASP4	CASP6	CASP8	CASP9	CASP10	LMNB2	CASP7	LMNA
+wnt_signaling_pathway	wnt_signaling_pathway	FRAT1	TAB1	WIF1	CREBBP	CSNK2A1	CTBP1	CTNNB1	DVL1	DKK2	GSK3B	HDAC1	LRP6	SMAD4	NLK	PPP2R5D	PROC	MAP3K7	HNF1A	TLE1	WNT1	KREMEN2	AXIN1	FZD1	BTRC	MYC	PPARD	CCND1	DKK1
+brca1_dependent_ub_ligase_activity	brca1_dependent_ub_ligase_activity	FANCA	FANCC	FANCD2	FANCE	FANCF	BRCA1	FANCG	BARD1
+transcription_factor_creb_and_its_extracellular_signals	transcription_factor_creb_and_its_extracellular_signals	MAPK14	AKT1	GRB2	PDPK1	PIK3CA	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	RPS6KA1	SHC1	SOS1	RPS6KA5	CREB1	HRAS	PIK3R1
+the_prc2_complex_sets_long_term_gene_silencing_through_modification_of_histone_tails	the_prc2_complex_sets_long_term_gene_silencing_through_modification_of_histone_tails	PHC1	EZH2	SUZ12	HDAC1	HDAC2	RBBP4	RBBP7	BMI1	CBX4	EED	RING1	YY1
+regulation_of_ck1cdk5_by_type_1_glutamate_receptors	regulation_of_ck1cdk5_by_type_1_glutamate_receptors	CDK5	CSNK1D	GRK2	DRD2	GNAS	GNB1	GNGT1	GRM1	PPP2R5D	PPP3CA	PRKACB	PRKACG	PRKAR1A	PRKAR1B	PRKAR2A	PRKAR2B	PPP1R1B	CDK5R1	NCS1	ADCY1	DRD1	PLCB1	PPP1CA
+tumor_suppressor_arf_inhibits_ribosomal_biogenesis	tumor_suppressor_arf_inhibits_ribosomal_biogenesis	CDKN2A	DNAJB1P1	E2F1	AKT1	ABL1	POLR1A	HSPA1A	HSP90AA1	MDM2	MYC	ATM	POLR1D	PIK3CA	PIK3R1	TBX2	TP53	TWIST1	UBE2A	POLR1B	RB1	POLR1C	RAC1	NFKBIB
+spliceosomal_assembly	spliceosomal_assembly	U2AF2	SRSF2	SNRNP70	SNRPA	SNRPB2	SNRPC	U2AF1	SNRPA1
+ucalpain_and_friends_in_cell_spread	ucalpain_and_friends_in_cell_spread	LAMC3	LAMA1	ITGA1	ITGB1	RHOA	LAMA2	LAMA3	LAMA4	LAMA5	LAMB1	LAMB2	LAMB3	LAMC1	LAMC2	PTK2	ACTA1	PXN	RAC1	SPTAN1	SRC	TLN1	EZR	CAPN1	CAPNS1
+sumoylation_by_ranbp2_regulates_transcriptional_repression	sumoylation_by_ranbp2_regulates_transcriptional_repression	HDAC6	NUP210	NUP62	HDAC1	MDM2	RAN	RANBP2	SUMO1	NUP214	PIAS1	PIAS2	HDAC9	HDAC4	NUP153
+chromatin_remodeling_by_hswisnf_atp_dependent_complexes	chromatin_remodeling_by_hswisnf_atp_dependent_complexes	NR3C1	GTF2A1	GTF2E1	GTF2F1	GTF3A	NF1	POLR2A	ACTB	SMARCA4	SMARCB1	SMARCC1	SMARCC2	SMARCD1	SMARCE1	ARID1A	GTF2B
+inactivation_of_gsk3_by_akt_causes_accumulation_of_b_catenin_in_alveolar_macrophages	inactivation_of_gsk3_by_akt_causes_accumulation_of_b_catenin_in_alveolar_macrophages	FRAT1	WIF1	TIRAP	CSNK2A1	CTNNB1	DVL1	AKT1	LY96	DKK2	GSK3B	IRAK1	LRP6	MYD88	LEF1	PDPK1	PIK3CA	TOLLIP	PPP2R5D	EIF2AK2	PROC	TLR4	WNT1	KREMEN2	AXIN1	FZD1	BTRC	CD14	EHHADH	GJA1	CCND1	DKK1	PIK3R1
+polyadenylation_of_mrna	polyadenylation_of_mrna	CSTF1	CSTF2	CSTF3	PAPOLA
+adp_ribosylation_factor	adp_ribosylation_factor	CLTA	CLTB	COPA	GPLD1	ARF1
+erythropoietin_mediated_neuroprotection_through_nf_kb	erythropoietin_mediated_neuroprotection_through_nf_kb	COPS5	CREB1	EP300	EPOR	HIF1A	JAK2	JUN	ARNT	RELA	CDKN1A	EPO	SOD2
+estrogen_responsive_protein_efp_controls_cell_cycle_and_breast_tumors_growth	estrogen_responsive_protein_efp_controls_cell_cycle_and_breast_tumors_growth	ESR1	TP53	TRIM25	SFN
+regulation_of_p27_phosphorylation_during_cell_cycle_progression	regulation_of_p27_phosphorylation_during_cell_cycle_progression	CDK2	CDKN1B	CKS1B	E2F1	NEDD8	SKP1	SKP2	TFDP1	CUL1	CCNE1	UBE2M	RB1	RBX1
+apoptotic_signaling_in_response_to_dna_damage	apoptotic_signaling_in_response_to_dna_damage	AKT1	APAF1	ATM	CYCS	BAD	BAX	BCL2	BCL2L1	TP53	CASP9	CASP3	CASP6	CASP7
+lissencephaly_gene_lis1_in_neuronal_migration_and_development	lissencephaly_gene_lis1_in_neuronal_migration_and_development	CDK5	CSNK2A1	ABL1	PAFAH1B1	RELN	LRP8	CDK5R1	NDEL1	CLIP1

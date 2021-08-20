@@ -12,6 +12,9 @@
 calAUC = function(data,
                   gSets){
   # step1 rank genes in each cell
+  if(is(data,'sparseMatrix')){
+    data = as.matrix(data)
+  }
   data = convertData(data)
   data.ranking = rankGenes(data)
   aucMaxRank=ceiling(0.05*nrow(data.ranking))

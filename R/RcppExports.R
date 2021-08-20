@@ -2,26 +2,22 @@
 # Generator token: 10BE3573-1514-4C36-9D1C-5A225CD40393
 
 row_d <- function(x, rnaseq) {
-    .Call('_testSctpa_row_d', PACKAGE = 'testSctpa', x, rnaseq)
+    .Call(`_testSctpa_row_d`, x, rnaseq)
 }
 
 matrix_d <- function(expr, rnaseq) {
-    .Call('_testSctpa_matrix_d', PACKAGE = 'testSctpa', expr, rnaseq)
+    .Call(`_testSctpa_matrix_d`, expr, rnaseq)
 }
 
 ks_matrix_gsva <- function(geneset_idxs, expr, sort_idxs, tau, mx_diff, abs_rnk) {
-    .Call('_testSctpa_ks_matrix_gsva', PACKAGE = 'testSctpa', geneset_idxs, expr, sort_idxs, tau, mx_diff, abs_rnk)
+    .Call(`_testSctpa_ks_matrix_gsva`, geneset_idxs, expr, sort_idxs, tau, mx_diff, abs_rnk)
 }
 
 ks_sample_ssgsea <- function(x, x_sort_indxs, geneset_idxs, geneset_mask, n_genes, n_geneset, dec, tau) {
-    .Call('_testSctpa_ks_sample_ssgsea', PACKAGE = 'testSctpa', x, x_sort_indxs, geneset_idxs, geneset_mask, n_genes, n_geneset, dec, tau)
+    .Call(`_testSctpa_ks_sample_ssgsea`, x, x_sort_indxs, geneset_idxs, geneset_mask, n_genes, n_geneset, dec, tau)
 }
 
 ks_matrix_ssgsea <- function(geneset_idxs, expr, sort_idxs, tau) {
-    .Call('_testSctpa_ks_matrix_ssgsea', PACKAGE = 'testSctpa', geneset_idxs, expr, sort_idxs, tau)
-}
-
-rcpp_hello_world <- function() {
-    .Call('_testSctpa_rcpp_hello_world', PACKAGE = 'testSctpa')
+    .Call(`_testSctpa_ks_matrix_ssgsea`, geneset_idxs, expr, sort_idxs, tau)
 }
 

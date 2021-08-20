@@ -11,6 +11,9 @@
 #'
 calZscore = function(data,
                   gSets) {
+  if(is(data,'sparseMatrix')){
+    data = as.matrix(data)
+  }
   cell_names = colnames(data)
   data = data.table::data.table(t(data))
   data[,(colnames(data)):=lapply(.SD,function(x) (x-mean(x))/sd(x))]
@@ -33,9 +36,8 @@ calZscore = function(data,
 
 combinez = function(gSet, Z){
   gSet = unique(gSet)
-  nGenes = length(gSet)
   gSet = intersect(gSet, rownames(Z))
-
+  nGenes = length(gSet)
   if(nGenes == 1){
     Z[gSet,]
   }else{

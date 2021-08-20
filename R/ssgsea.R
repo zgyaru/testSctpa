@@ -13,6 +13,9 @@ calSSgsea = function(data,
                      gSets,
                      alpha=0.25,
                      normalization=T){
+  if(is(data,'sparseMatrix')){
+    data = as.matrix(data)
+  }
   data = convertData(data)
   gset.idx.list = lapply(gSets,
                          function(x,y) na.omit(match(x, y)),

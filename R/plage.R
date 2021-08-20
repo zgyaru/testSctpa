@@ -13,6 +13,9 @@
 calPlage = function(data,
                     gSets){
   cell_names = colnames(data)
+  if(is(data,'sparseMatrix')){
+    data = as.matrix(data)
+  }
   data = data.table::data.table(t(data))
   data[,(colnames(data)):=lapply(.SD,function(x) (x-mean(x))/sd(x))]
   data = t(data)
@@ -31,8 +34,8 @@ calPlage = function(data,
 
 rightsingularsvdvectorgset = function(gSet, Z){
   gSet = unique(gSet)
-  nGenes = length(gSet)
   gSet = intersect(gSet, rownames(Z))
+  nGenes = length(gSet)
   if(nGenes==1){
     return(rep(NA,ncol(Z)))
   }else{

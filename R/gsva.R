@@ -7,13 +7,16 @@
 #' @param gSets gene sets in list format
 #' @return gsva score matrix
 #' @import data.table
-#' @importFrom status na.omit
+#' @importFrom stats na.omit
 #' @export
 #'
 calGsva = function(data,
                    gSets,
                    alpha=0.25,
                    rnaseq=F){
+  if(is(data,'sparseMatrix')){
+    data = as.matrix(data)
+  }
   data = convertData(data)
   num_genes = nrow(data)
   gset.idx.list = lapply(gSets,
