@@ -12,16 +12,16 @@ devtools::install_github('zgyaru/testSctpa')
 
 ## Quite start
 
-### Loading test data
+### Step 1. Loading test data
 ```
 library(testSctpa)
 counts = load_counts()
 ```
-### Selecting a pathway database used for biological annotation
+### Step 2. Selecting a pathway database
 ```
 kegg = getPathways(species='mouse', pathway='kegg')
 ```
-### Calculating pathway activity score
+### Step 3. Calculating pathway activity score
 ```
 pas = calVision(counts,kegg)
 #pas = calGsva(counts,kegg)
