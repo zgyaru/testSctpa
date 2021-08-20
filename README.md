@@ -12,12 +12,12 @@ devtools::install_github('zgyaru/testSctpa')
 
 ## Quite start
 
-### Step 1. Loading test data
+### Step 1. loading test data
 ```
 library(testSctpa)
 counts = load_counts()
 ```
-### Step 2. Selecting a pathway database
+### Step 2. selecting a pathway database used for biological annotation
 ```
 kegg = getPathways(species='mouse', pathway='kegg')
 ```
@@ -62,15 +62,15 @@ print(pas[1:5,1:5])
 |Name | Detials  | Number of gene sets|
 |- | :-: | -: |
 |kegg | KEGG pathway database | 259|
-|PID | PID pathway database | 193
 |panther | protein annotation through evolutionary relationship | 151|
 |mousecyc | mouse metabonomics | 321|
 |biocarta | BioCarta pathway database | 176|
-|reactome | Reactome pathway database | 4342|
+|reactome | Reactome pathway database | 1396|
 |TFT | transcriptional factor targets | 373|
 |GO.bp | GO biological process | 8203|
 |GO.cc | Co cellular Component | 1082|
 |GO.mf | GO molecular fucntion | 3240|
+|drug | drug related | 844|
 
 
 
