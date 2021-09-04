@@ -64,7 +64,6 @@ print(pas[1:5,1:5])
 |kegg | KEGG pathway database | 259|
 |panther | protein annotation through evolutionary relationship | 151|
 |mousecyc | mouse metabonomics | 321|
-|biocarta | BioCarta pathway database | 176|
 |reactome | Reactome pathway database | 1396|
 |TFT | transcriptional factor targets | 373|
 |GO.bp | GO biological process | 8203|
