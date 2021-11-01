@@ -41,7 +41,7 @@ combinez = function(gSet, Z){
   if(nGenes == 1){
     Z[gSet,]
   }else{
-    colSums(Z[gSet,]) / sqrt(length(nGenes))
+    colSums(Z[gSet,],na.rm = T) / sqrt(length(nGenes))
   }
 }
 
