@@ -63,7 +63,7 @@ cal_PAS = function(seurat_object,
   PAS = CreateAssayObject(data = score[[tool]])
   seurat_object[['PAS']] = PAS
   DefaultAssay(seurat_object) = 'PAS'
-  print(class(seurat_object))
+  warning(class(seurat_object))
   return(seurat_object)
 }
 
