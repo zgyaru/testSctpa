@@ -60,10 +60,10 @@ cal_PAS = function(seurat_object,
                         rand_seed = rand_seed
   )
   
-  PAS = CreateAssayObject(data = as.matrix(score[[tool]]))
+  PAS = CreateAssayObject(data = score[[tool]])
   seurat_object[['PAS']] = PAS
   DefaultAssay(seurat_object) = 'PAS'
-  return(counts = as.matrix(score[[tool]]))
+  return(seurat_object)
 }
 
 
