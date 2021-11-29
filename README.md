@@ -22,10 +22,10 @@ library(Seurat)
 
 counts = load_counts()
 ### you could load your own data:
-counts = read.table("folder/expression_counts.txt.gz",
-                     header = TRUE,
-                     sep = '\t',
-                     row.names = 1)
+#counts = read.table("folder/expression_counts.txt.gz",
+#                     header = TRUE,
+#                     sep = '\t',
+#                     row.names = 1)
 se_oj = CreateSeuratObject(counts)
 ```
 ### Step 2. Calculating pathway activity score
