@@ -38,11 +38,11 @@ se_oj = cal_PAS(seurat_object = se_oj,
 ```
 ### Step 3. Clustering using PAS by Seurat
 ```
-se_oj = FindVariableFeatures(pas_oj, verbose = FALSE)
-se_oj = ScaleData(pas_oj)
+se_oj = FindVariableFeatures(se_oj, verbose = FALSE)
+se_oj = ScaleData(se_oj)
 se_oj = RunPCA(se_oj)
 se_oj = RunUMAP(se_oj,dims = 1:8)
-se_oj = FindNeighbors(pas_oj)
+se_oj = FindNeighbors(se_oj)
 se_oj = FindClusters(se_oj)
 DimPlot(se_oj)
 ```
