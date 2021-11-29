@@ -43,9 +43,15 @@ se_oj = RunPCA(se_oj)
 se_oj = RunUMAP(se_oj,dims = 1:8)
 se_oj = FindNeighbors(pas_oj)
 se_oj = FindClusters(se_oj)
+DimPlot(se_oj)
 ```
-### Step 3. Visulization and cell-type specific pathways
-
+### Step 3. cell-type specific pathways
+```
+library(dplyr)
+markers = FindAllMarkers(se_oj,logfc.threshold = 0)
+pathways = markers %>% group_by(cluster) %>% top_n(n=5,wt=avg_log2FC)  #For Seurat>4.0, set "wt=avg_logFC"
+DoHeatmap(se_oj,features=pathways$gene)
+```
 
 
 
