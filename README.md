@@ -46,15 +46,19 @@ se_oj = FindNeighbors(se_oj)
 se_oj = FindClusters(se_oj)
 DimPlot(se_oj)
 ```
+
 <div align=center style="border:5px solid #000"><img  src="https://github.com/zygyaru/testSctpa/blob/master/pic/clustering.jpg"/> </div>
-### Step 3. cell-type specific pathways
+
+### Step 4. cell-type specific pathways
 ```
 library(dplyr)
 markers = FindAllMarkers(se_oj,logfc.threshold = 0)
 pathways = markers %>% group_by(cluster) %>% top_n(n=5,wt=avg_log2FC)  #For Seurat>4.0, set "wt=avg_logFC"
 DoHeatmap(se_oj,features=pathways$gene)
 ```
+
 <div align=center style="border:5px solid #000"><img  src="https://github.com/zygyaru/testSctpa/blob/master/pic/Rplot.jpg"/> </div>
+
 
 
 
