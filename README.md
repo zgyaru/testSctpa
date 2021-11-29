@@ -36,7 +36,7 @@ se_oj = cal_PAS(seurat_object = se_oj,
               species = 'mouse', 
               pathway='kegg')
 ```
-### Step 3. Clustering using PAS by Seurat
+### Step 3. clustering cells using PAS by Seurat
 ```
 se_oj = FindVariableFeatures(se_oj, verbose = FALSE)
 se_oj = ScaleData(se_oj)
