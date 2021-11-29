@@ -7,10 +7,14 @@ Single-cell RNA sequencing (scRNA-seq) analysis enables researchers to uncover m
 
 ## Install
 ```
+devtools::install_github('zgyaru/testSctpa')
+```
+
+## Dependencies
+```
 # install.packages("GSVA")
 # devtools::install_github("YosefLab/VISION")
-# BiocManager::install("AUCell")
-devtools::install_github('zgyaru/testSctpa')
+BiocManager::install("AUCell")
 ```
 
 ## Quite start
