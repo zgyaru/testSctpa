@@ -105,13 +105,13 @@ cal_all_tools = function(seurat_object,
   tryCatch({
     if(normalize == 'log'){
       seurat_object = Seurat::NormalizeData(seurat_object,normalization.method = 'LogNormalize',verbose=0)
-      seurat_object = Seurat::ScaleData(seurat_object)
+      #seurat_object = Seurat::ScaleData(seurat_object)
     }else if(normalize == 'CLR'){
       seurat_object = Seurat::NormalizeData(seurat_object,normalization.method = 'CLR',verbose=0)
-      seurat_object = Seurat::ScaleData(seurat_object)
+      #seurat_object = Seurat::ScaleData(seurat_object)
     }else if(normalize == 'RC'){
       seurat_object = Seurat::NormalizeData(seurat_object,normalization.method = 'RC',verbose=0)
-      seurat_object = Seurat::ScaleData(seurat_object)
+      #seurat_object = Seurat::ScaleData(seurat_object)
     }else if(normalize == 'scran'){
       counts = GetAssayData(object = seurat_object, assay = "RNA", slot = "counts")
       if(mat_type == 'counts'){
