@@ -31,7 +31,7 @@ se_oj = CreateSeuratObject(counts)
 ### Step 2. Calculating pathway activity score
 ```
 se_oj = cal_PAS(seurat_object = se_oj,
-              tool = 'AUCell',
+              tool = 'AUCell',   ## GSVA, ssGSEA, plage, zscore or Vision
               normalize = 'log',
               species = 'mouse', 
               pathway='kegg')
@@ -47,7 +47,7 @@ se_oj = FindClusters(se_oj)
 DimPlot(se_oj)
 ```
 
-<div align=center style="border:5px solid #000"><img  src="https://github.com/zygyaru/testSctpa/blob/master/pic/clustering.jpg"/> </div>
+<div align=center style="border:5px solid #000"><img  src="https://github.com/zgyaru/testSctpa/blob/main/pic/clustering.png"/> </div>
 
 ### Step 4. cell-type specific pathways
 ```
@@ -57,7 +57,7 @@ pathways = markers %>% group_by(cluster) %>% top_n(n=5,wt=avg_log2FC)  #For Seur
 DoHeatmap(se_oj,features=pathways$gene)
 ```
 
-<div align=center style="border:5px solid #000"><img  src="https://github.com/zygyaru/testSctpa/blob/master/pic/Rplot.jpg"/> </div>
+<div align=center style="border:5px solid #000"><img  src="https://github.com/zgyaru/testSctpa/blob/main/pic/Rplot.png"/> </div>
 
 
 
