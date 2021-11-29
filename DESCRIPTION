@@ -7,7 +7,8 @@ Author: Your Name
 Maintainer: Your Name <your@email.com>
 Description: Single-cell RNA sequencing (scRNA-seq) analysis enables researchers to uncover more refined and novel cell clusters, which have greatly advanced our understanding of cellular states. Pathway activity score (PAS) analysis has been applied to transform the gene-level data into explainable gene sets representing biological processes or pathways to uncover the potential mechanism of cell heterogeneity. This package provide six portable interfaces for PAS calculation tools.
 License: GPL-3
-Imports: Rcpp (>= 1.0.7), Matrix, data.table, matrixStats, methods, AUCell, GSVA
+Depends: AUCell, GSVA
+Imports: Rcpp (>= 1.0.7), Matrix, data.table, matrixStats, methods
 LinkingTo: Rcpp, RcppEigen
 RoxygenNote: 7.1.2
 Suggests: 
