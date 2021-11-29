@@ -7,6 +7,9 @@ Single-cell RNA sequencing (scRNA-seq) analysis enables researchers to uncover m
 
 ## Install
 ```
+install.packages("GSVA")
+devtools::install_github("YosefLab/VISION")
+BiocManager::install("AUCell")
 devtools::install_github('zgyaru/testSctpa')
 ```
 
@@ -15,22 +18,34 @@ devtools::install_github('zgyaru/testSctpa')
 ### Step 1. loading test data
 ```
 library(testSctpa)
+library(Seurat)
 counts = load_counts()
+### you could load your own data:
+counts = read.table("folder/expression_counts.txt.gz",
+                     header = TRUE,
+                     sep = '\t',
+                     row.names = 1)
+se_oj = CreateSeuratObject(counts)
 ```
-### Step 2. selecting a pathway database used for biological annotation
+### Step 2. Calculating pathway activity score
 ```
-kegg = getPathways(species='mouse', pathway='kegg')
+se_oj = cal_PAS(seurat_object = se_oj,
+              tool = 'AUCell',
+              normalize = 'log',
+              species = 'mouse', 
+              pathway='kegg')
 ```
-### Step 3. Calculating pathway activity score
+### Step 3. Clustering using PAS by Seurat
 ```
-pas = calVision(counts,kegg)
-#pas = calGsva(counts,kegg)
-#pas = calAUC(counts,kegg)
-#pas = calSSgsea(counts,kegg)
-#pas = calPlage(counts,kegg)
-#pas = calZscore(counts,kegg)
-print(pas[1:5,1:5])
+se_oj = FindVariableFeatures(pas_oj, verbose = FALSE)
+se_oj = ScaleData(pas_oj)
+se_oj = RunPCA(se_oj)
+se_oj = RunUMAP(se_oj,dims = 1:8)
+se_oj = FindNeighbors(pas_oj)
+se_oj = FindClusters(se_oj)
 ```
+### Step 3. Visulization and cell-type specific pathways
+
 
 
 

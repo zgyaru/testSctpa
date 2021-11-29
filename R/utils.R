@@ -206,3 +206,27 @@ sigsToSparseMatrix = function(gSets, expression) {
 #})
 
 #roxygen2::roxygenize(package.dir = ".")
+
+
+mergeData = function(mat, 
+                     meta, 
+                     clusterCol_name, 
+                     type = 'mean'){
+  meta = meta[colnames(mat),]
+  res = vector(mode = 'list',length = length(unique(meta[,`clusterCol_name`])))
+  names(res) = unique(meta[,`clusterCol_name`])
+  for(x in unique(meta[,`clusterCol_name`])){
+    sub_mat = as.matrix(mat[,which(meta[,`clusterCol_name`] == x)])
+    if(type == 'mean'){
+      res[[x]] = rowMeans(sub_mat)
+    }else if(type == 'mean_expressed'){
+      sub_mat[which(sub_mat == 0)] = NA
+      res[[x]] = rowMeans(sub_mat, na.rm = TRUE)
+    }else if(type == 'median'){
+      res[[x]] = apply(sub_mat, 1, median)
+    }
+  }
+  res = do.call('cbind',res)
+  res[is.na(res)] = 0
+  res
+}

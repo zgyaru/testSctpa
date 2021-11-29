@@ -9,4 +9,7 @@ Description: Single-cell RNA sequencing (scRNA-seq) analysis enables researchers
 License: GPL-3
 Imports: Rcpp (>= 1.0.7), Matrix, data.table, matrixStats, methods
 LinkingTo: Rcpp, RcppEigen
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
