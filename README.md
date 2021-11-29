@@ -19,6 +19,7 @@ devtools::install_github('zgyaru/testSctpa')
 ```
 library(testSctpa)
 library(Seurat)
+
 counts = load_counts()
 ### you could load your own data:
 counts = read.table("folder/expression_counts.txt.gz",
