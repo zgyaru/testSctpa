@@ -182,7 +182,7 @@ cal_all_tools = function(seurat_object,
   n_cores = n_cores
   gSets = getGMT(gSets_path)
   
-  counts = as.matrix(counts)
+  #counts = as.matrix(counts)
   for(i in 1:length(tools)){
     tool = tools[i]
     t_start = Sys.time()
