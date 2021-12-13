@@ -330,8 +330,8 @@ cal_pagoda2 = function(counts,
     rownames(score) = path_names
     colnames(score) = colnames(counts)
     for(i in 1:length(p2$misc$pwpca)){
-      if(!is.null(p2$misc$pwpca$[[i]]$xp$scores)){
-        score[i,] = as.numeric(p2$misc$pwpca$[[i]]$xp$scores)
+      if(!is.null(p2$misc$pwpca[[i]]$xp$scores)){
+        score[i,] = as.numeric(p2$misc$pwpca[[i]]$xp$scores)
       }
     }
     print(gc())
