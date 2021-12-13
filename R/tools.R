@@ -304,7 +304,7 @@ cal_pagoda2 = function(counts,
   nPcs = min(round(ncol(counts)/5),5)
   #counts = apply(counts,2,function(x) {storage.mode(x) = 'integer'; x})
   tryCatch({
-    p2 = Pagoda2$new(counts, n.cores = n_cores,log.scale=F)
+    p2 = Pagoda2$new(counts, n.cores = n_cores,log.scale=T)
     print(gc())
     p2$adjustVariance(plot=F)
     print(gc())
@@ -325,13 +325,13 @@ cal_pagoda2 = function(counts,
                                  recalculate.pca = T,
                                  min.pathway.size = 1)
     print(gc())
-    path_names = names(p2@.xData$misc$pwpca)
+    path_names = names(p2$misc$pwpca)
     score = matrix(NA,nrow=length(path_names),ncol=ncol(counts))
     rownames(score) = path_names
     colnames(score) = colnames(counts)
-    for(i in 1:length(p2@.xData$misc$pwpca)){
-      if(!is.null(p2@.xData$misc$pwpca[[i]]$xp$score)){
-        score[i,] = as.numeric(p2@.xData$misc$pwpca[[i]]$xp$scores)
+    for(i in 1:length(p2$misc$pwpca)){
+      if(!is.null(p2$misc$pwpca$[[i]]$xp$scores)){
+        score[i,] = as.numeric(p2$misc$pwpca$[[i]]$xp$scores)
       }
     }
     print(gc())
