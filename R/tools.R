@@ -299,6 +299,7 @@ cal_pagoda2 = function(counts,
   # n.cores = detectCores(), n.randomizations = 100, weight.k = 0.9,
   # verbose = 0, weight.df.power = 1, smooth.df = -1,
   # theta.range = c(0.01, 100), gene.length = NULL
+  library(pagoda2)
   print(gc())
   nPcs = min(round(ncol(counts)/5),5)
   #counts = apply(counts,2,function(x) {storage.mode(x) = 'integer'; x})
